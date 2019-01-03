@@ -1,0 +1,44 @@
+// Misc.
+	$misc: (
+		z-index-base:	10000
+	);
+
+// Duration.
+	$duration: (
+		navPanel: 0.5s
+	);
+
+// Size.
+	$size: (
+		navPanel: 275px,
+		radius: 1px
+	);
+
+// Font.
+	$font: (
+	  ft-sz: 14px,
+		le-ht: 1.65,
+		blog-les-to-sw: 4
+
+	);
+
+// Palette.
+	$palette: (
+		bg: #f1f2f5,
+		fg: #5b6172,
+		fg-btn: #fff,
+		fg-text: #5fc0c3,
+		fg-bold: #4c4c4c,
+		fg-light: #fff,
+		border: #5fc0c3,
+		fg-copy: #979eb1,
+		hr-line: #d9dadd,
+
+		accent: (
+			bg: #5dc0c9,
+			fg-text: #61c0bd,
+			fg-btn: #fff,
+			bg-btn: #61c0bd,
+			fg: #5b6172
+		)
+	);
